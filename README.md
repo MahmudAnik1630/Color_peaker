@@ -1,8 +1,7 @@
 # Color_Picker
-This code Is already Complied . Just doule click Co.exe and play the game.
-
-
-
-NOTE:
-
-Sometimes, antivirus software may mistakenly detect a virus in our code even when it is clean. If the game doesn't run properly, please temporarily disable the antivirus to troubleshoot the issue.
+The Color Picker project is a C++ game featuring a graphical in-
+terface. Colored circles fall from the top, while a decision-making
+circle at the window’s center displays a target color. The player
+must click on the falling circles that match the target color. The
+game tests color recognition and decision-making speed in an
+interactive, fun way.
